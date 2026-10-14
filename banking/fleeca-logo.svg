@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="fleecaBadge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7b3ff2"/>
+      <stop offset="100%" stop-color="#5b2bbd"/>
+    </linearGradient>
+    <linearGradient id="fleecaMint" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7cf5cf"/>
+      <stop offset="100%" stop-color="#2be3a7"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="92" height="92" rx="22" fill="url(#fleecaBadge)"/>
+  <rect x="2" y="2" width="92" height="92" rx="22" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="1.5"/>
+  <path d="M48 20 L74 33 V47 C74 63 63 75 48 80 C33 75 22 63 22 47 V33 Z"
+        fill="rgba(8,8,14,0.35)" stroke="rgba(255,255,255,0.28)" stroke-width="1.5"/>
+  <text x="48" y="60" text-anchor="middle" font-family="'Inter', Arial, sans-serif" font-weight="800"
+        font-size="34" fill="url(#fleecaMint)">$</text>
+</svg>
